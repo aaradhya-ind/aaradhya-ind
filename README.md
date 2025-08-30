@@ -1,4 +1,4 @@
-## Hi I am Aaradhya
+## Hi, I am Aaradhya!
 
 <!--
 **aaradhya-ind/aaradhya-ind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
